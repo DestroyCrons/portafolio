@@ -133,6 +133,7 @@ section p {
   width: 218px;
   height: 218px;
   border-radius: 50%;
+   object-fit: cover;
 }
 
 #hero h1 {
