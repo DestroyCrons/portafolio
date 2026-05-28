@@ -134,6 +134,7 @@ section p {
   height: 218px;
   border-radius: 50%;
    object-fit: cover;
+   object-position: top;
 }
 
 #hero h1 {
